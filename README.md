@@ -1,3 +1,5 @@
+apk - https://drive.google.com/file/d/1_uubE8kYaYrJ5nhpryw5VWzfl022qcLA/view?usp=sharing
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
